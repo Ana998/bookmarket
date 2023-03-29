@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\Bookmarket.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\Bookmarket.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\Bookmarket.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\Bookmarket.DataAccess.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\Bookmarket.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\bin\Debug\net6.0\Bookmarket.DataAccess.deps.json
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\bin\Debug\net6.0\Bookmarket.DataAccess.runtimeconfig.json
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\bin\Debug\net6.0\Bookmarket.DataAccess.dll
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\bin\Debug\net6.0\Bookmarket.DataAccess.pdb
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\bin\Debug\net6.0\Bookmarket.Models.dll
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\bin\Debug\net6.0\Bookmarket.Models.pdb
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\Bookmarket.DataAccess.csproj.CopyComplete
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\Bookmarket.DataAccess.dll
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\refint\Bookmarket.DataAccess.dll
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\Bookmarket.DataAccess.pdb
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\Bookmarket.DataAccess.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.DataAccess\obj\Debug\net6.0\ref\Bookmarket.DataAccess.dll

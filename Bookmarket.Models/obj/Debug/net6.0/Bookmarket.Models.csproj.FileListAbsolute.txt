@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\bin\Debug\net6.0\Bookmarket.Models.deps.json
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\bin\Debug\net6.0\Bookmarket.Models.dll
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\bin\Debug\net6.0\Bookmarket.Models.pdb
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\obj\Debug\net6.0\Bookmarket.Models.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\obj\Debug\net6.0\Bookmarket.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\obj\Debug\net6.0\Bookmarket.Models.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\obj\Debug\net6.0\Bookmarket.Models.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\obj\Debug\net6.0\Bookmarket.Models.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\obj\Debug\net6.0\Bookmarket.Models.dll
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\obj\Debug\net6.0\refint\Bookmarket.Models.dll
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\obj\Debug\net6.0\Bookmarket.Models.pdb
+C:\Users\Acer\source\repos\Bookmarket\Bookmarket.Models\obj\Debug\net6.0\ref\Bookmarket.Models.dll
