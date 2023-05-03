@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CqPbKJV2M1rokzozlaquvi8aQkLdi0u3lfEQyiKjaqMUsAA+idEzgdBgNE11p/fd0Lz9YmfcYc9XQajmkl5ZzA==",
+  "dgSpecHash": "3Vf1GwpTPH986dDiF5vXD4LIgByAFPBuFrPMNlc/VMz7c4x9x/79dda3SpggKBIu+CsdFJu0Y8JoZPQckjK0MQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Acer\\source\\repos\\Bookmarket\\BookmarketWeb\\BookmarketWeb.csproj",
   "expectedPackageFiles": [
@@ -144,6 +144,7 @@
     "C:\\Users\\Acer\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\stripe.net\\41.14.0\\stripe.net.41.14.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",

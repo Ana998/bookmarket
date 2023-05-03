@@ -577,3 +577,4 @@ C:\Users\Acer\source\repos\Bookmarket\BookmarketWeb\bin\Debug\net6.0\Microsoft.A
 C:\Users\Acer\source\repos\Bookmarket\BookmarketWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\Acer\source\repos\Bookmarket\BookmarketWeb\bin\Debug\net6.0\Bookmarket.Utility.dll
 C:\Users\Acer\source\repos\Bookmarket\BookmarketWeb\bin\Debug\net6.0\Bookmarket.Utility.pdb
+C:\Users\Acer\source\repos\Bookmarket\BookmarketWeb\bin\Debug\net6.0\Stripe.net.dll

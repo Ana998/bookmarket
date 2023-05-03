@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VfVCHCfJObHWdKs22OuMbXqeADAmMinB3sM23iGEnZo=",
+  "Hash": "gb/SKkySxwF9FrX0+tJ6UO2SY/4DLOrzHiML1/0Y5f0=",
   "Source": "BookmarketWeb",
   "BasePath": "_content/BookmarketWeb",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Acer\\source\\repos\\Bookmarket\\BookmarketWeb\\wwwroot\\images\\OrderConfirmation.png",
+      "SourceId": "BookmarketWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer\\source\\repos\\Bookmarket\\BookmarketWeb\\wwwroot\\",
+      "BasePath": "_content/BookmarketWeb",
+      "RelativePath": "images/OrderConfirmation.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\OrderConfirmation.png"
     },
     {
       "Identity": "C:\\Users\\Acer\\source\\repos\\Bookmarket\\BookmarketWeb\\wwwroot\\images\\products\\013b6975-71f9-4943-b10b-1f5da80970f7.jpg",
